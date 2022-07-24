@@ -1,5 +1,7 @@
 I need to learn how to properly cite sources but this is obviously not my work. I'll have the citation up whenever I remember exactly where this came from, it was from a copy/paste of a template /path/to/www/* I thought it was the lisp cook book on web development but will have to confirm later when I have the time. Feel free to comment on if you recognize the default /www/* structure.
 
+I'll also be modifing things to make it more structurely organized, first reading https://www.htmlquick.com/tutorials/organizing-website.html
+
 ----------------------------------------
 Hunchentoot - The Common Lisp web server
 ----------------------------------------
