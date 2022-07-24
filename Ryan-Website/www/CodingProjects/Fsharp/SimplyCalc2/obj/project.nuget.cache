@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A+8SeQ8eX9YY7rezdcs3mzUqHopzVG45fdeSdSG3VHOjvqArHLeVCpVx2GY6ypqdVaZe5+VkznrIvWoVnRo0HA==",
+  "success": true,
+  "projectFilePath": "/home/ryanl/Desktop/CodingProjects/Fsharp/SimplyCalc2/SimplyCalc2.fsproj",
+  "expectedPackageFiles": [
+    "/home/ryanl/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
