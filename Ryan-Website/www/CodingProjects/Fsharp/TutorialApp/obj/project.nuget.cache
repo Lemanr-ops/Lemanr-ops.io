@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I3hUxMUUX45wqzMHgHYDFBuf1icxE5H6XCMsCYZOPcY3SQiQLfM/Z2/MWVSoHBsoXJnjAOcUoxNtr8uTxewYQQ==",
+  "success": true,
+  "projectFilePath": "/home/ryanl/Desktop/CodingProjects/Fsharp/TutorialApp/TutorialApp.fsproj",
+  "expectedPackageFiles": [
+    "/home/ryanl/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
