@@ -1,0 +1,22 @@
+#include <iostream>
+int main(){
+int Points[4][2] = {{0,0}, {5,-5} , {1,1} , {-1,-1}};
+int PointsSizeOf= sizeof(PointsSizeOf);
+int LineFormulaSlope = -1;
+int PointY;
+int LineY;
+int y = 0;
+while(y<=PointsSizeOf-1){
+  PointY = Points[y][1];
+  LineY = LineFormulaSlope*Points[y][0];
+if(LineY == PointY){
+std::cout << "The point is on the vector \n";
+} else if(LineY >= PointY){
+  std::cout << "The point is left of vector \n";
+} else if(LineY <= PointY){
+  std::cout << "The point is right of vector \n";
+}
+y =y+1;
+}
+return 0;
+}

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1562506738 source:/home/leman/code/AgreeablenessQuestions/main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<cstring>
+

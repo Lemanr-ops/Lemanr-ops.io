@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1562419602 source:/home/leman/code/ExtroversionQuestions/main.cpp
+	<iostream>
+	<cmath>
+	<cstring>
+
