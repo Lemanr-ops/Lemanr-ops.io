@@ -244,7 +244,7 @@ Catch requests like "GET http://server/foo.html HTTP/1.0" (suggested by Stefan S
 
 Version 0.3.4
 2004-11-29
-Added backtrace code for OpenMCL (provided by Tiarn·n ” Corr·in)
+Added backtrace code for OpenMCL (provided by Tiarn√°n √ì Corr√°in)
 
 Version 0.3.3
 2004-11-22
