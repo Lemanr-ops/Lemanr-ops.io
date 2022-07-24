@@ -1,0 +1,737 @@
+2019 number,Date,Name,State,Country,,2020 number,Date,Name,State,Country,,Total number,total Date,total Name,total State,total Country
+1,1-6-2019,Jimmy,Texas,USA,,1,1-5-2020,Adam,Minnesota,USA,,1,1-6-2019,Jimmy,Texas,USA
+2,1-6-2019,John,California,USA,,2,1-5-2020,Elaine,Illinois,USA,,2,1-6-2019,John,California,USA
+3,1-6-2019,Marie,North Carolina,USA,,3,1-5-2020,Nick,Oregon,USA,,3,1-6-2019,Marie,North Carolina,USA
+4,1-6-2019,Adele,California,USA,,4,1-5-2020,John,Tennessee,USA,,4,1-6-2019,Adele,California,USA
+5,1-6-2019,Alexander,Oklahoma,USA,,5,1-5-2020,Alonzo,Virginia,USA,,5,1-6-2019,Alexander,Oklahoma,USA
+6,1-13-2019,Jacob,Oregon,USA,,6,1-5-2020,Theo,Illinois,USA,,6,1-13-2019,Jacob,Oregon,USA
+7,1-13-2019,Ben,Utah,USA,,7,1-5-2020,Joseph,New York State,USA,,7,1-13-2019,Ben,Utah,USA
+8,1-13-2019,Cole,Alberta,Canada,,8,1-12-2020,Joe,New York State,USA,,8,1-13-2019,Cole,Alberta,Canada
+9,1-13-2019,Timothy,Illinois,USA,,9,1-12-2020,Matt,Michigan,USA,,9,1-13-2019,Timothy,Illinois,USA
+10,1-13-2019,Khaled,Toronto,Canada,,10,1-12-2020,Ralph,Florida,USA,,10,1-13-2019,Khaled,Toronto,Canada
+11,1-13-2019,Joe,Arizona,USA,,11,1-12-2020,Ryan,Florida,USA,,11,1-13-2019,Joe,Arizona,USA
+12,1-13-2019,Erem,Texas,USA,,12,1-12-2020,Ken,Pennsylvania,USA,,12,1-13-2019,Erem,Texas,USA
+13,1-20-2019,Jimmy,California,USA,,13,1-19-2020,Christain,Denmark,Denmark,,13,1-20-2019,Jimmy,California,USA
+14,1-20-2019,Dan,New York State,USA,,14,1-19-2020,Kayla,Connecticut,USA,,14,1-20-2019,Dan,New York State,USA
+15,1-20-2019,Cole,Alberta,Canada,,15,1-19-2020,Alan,California,USA,,15,1-20-2019,Cole,Alberta,Canada
+16,1-20-2019,Michael,Texas,USA,,16,1-19-2020,Cory,New York State,USA,,16,1-20-2019,Michael,Texas,USA
+17,1-20-2019,Ryan,Arizona,USA,,17,1-19-2020,David,Kentucky,USA,,17,1-20-2019,Ryan,Arizona,USA
+18,1-20-2019,Jacob,Oregon,USA,,18,1-19-2020,Michael,Arizona,USA,,18,1-20-2019,Jacob,Oregon,USA
+19,1-27-2019,Traci,Texas,USA,,19,1-19-2020,Mike,Toronto,Canada,,19,1-27-2019,Traci,Texas,USA
+20,1-27-2019,Nick,Wisconsin,USA,,20,2-2-2020,Hermer,New York State,USA,,20,1-27-2019,Nick,Wisconsin,USA
+21,1-27-2019,Frode,Norway,Norway,,21,2-2-2020,Yoel,New York State,USA,,21,1-27-2019,Frode,Norway,Norway
+22,1-27-2019,Ron,Canada,Canada,,22,2-2-2020,Brant,California,USA,,22,1-27-2019,Ron,Canada,Canada
+23,1-27-2019,Josh,Colorado,USA,,23,2-2-2020,Wiliam,Nebraska,USA,,23,1-27-2019,Josh,Colorado,USA
+24,1-27-2019,Bonnie,Wisconsin,USA,,24,2-9-2020,Jonathan,Kentucky,USA,,24,1-27-2019,Bonnie,Wisconsin,USA
+25,1-27-2019,Tim,California,USA,,25,2-9-2020,Walter,Michigan,USA,,25,1-27-2019,Tim,California,USA
+26,1-27-2019,Nathan,Florida,USA,,26,2-9-2020,Jonathyn,Arizona,USA,,26,1-27-2019,Nathan,Florida,USA
+27,2-3-2019,Sid,United Kingdom,United Kingdom,,27,2-9-2020,Jonathan,Alabama,USA,,27,2-3-2019,Sid,United Kingdom,United Kingdom
+28,2-3-2019,Nick,Wisconsin,USA,,28,2-9-2020,Kevin,Tennessee,USA,,28,2-3-2019,Nick,Wisconsin,USA
+29,2-3-2019,Brojo,Arkansas,USA,,29,2-9-2020,Steve,Canada,Canada,,29,2-3-2019,Brojo,Arkansas,USA
+30,2-3-2019,Ronan,Vermont,USA,,30,2-9-2020,Keith,Oklahoma,USA,,30,2-3-2019,Ronan,Vermont,USA
+31,2-3-2019,Jacob,Illinois,USA,,31,2-9-2020,John,Texas,USA,,31,2-3-2019,Jacob,Illinois,USA
+32,2-3-2019,Brian,Georgia,USA,,32,2-16-2020,Daniel,Minnesota,USA,,32,2-3-2019,Brian,Georgia,USA
+33,2-3-2019,Mohammed,Berlin,Germany,,33,2-16-2020,Alex,Colorado,USA,,33,2-3-2019,Mohammed,Berlin,Germany
+34,2-10-2019,Nicoli,Iceland,Iceland,,34,2-16-2020,Mark,Maine,USA,,34,2-10-2019,Nicoli,Iceland,Iceland
+35,2-10-2019,Andrew,Ohio,USA,,35,2-16-2020,Dalton,New Jersey,USA,,35,2-10-2019,Andrew,Ohio,USA
+36,2-10-2019,Davis,Toronto,Canada,,36,2-16-2020,Joshua,New York State,USA,,36,2-10-2019,Davis,Toronto,Canada
+37,2-10-2019,Mike,California,USA,,37,2-16-2020,Joseph,New York State,USA,,37,2-10-2019,Mike,California,USA
+38,2-10-2019,Gavin,Vancouver,Canada,,38,2-16-2020,Shattered,Oregon,USA,,38,2-10-2019,Gavin,Vancouver,Canada
+39,2-17-2019,Holy Rebel,Florida,USA,,39,2-16-2020,Samuel,Germany,Germany,,39,2-17-2019,Holy Rebel,Florida,USA
+40,2-17-2019,Derek,Nevada,USA,,40,2-16-2020,Mark,Florida,USA,,40,2-17-2019,Derek,Nevada,USA
+41,2-17-2019,Grant,Tennessee,USA,,41,2-16-2020,Julian,Washinton State,USA,,41,2-17-2019,Grant,Tennessee,USA
+42,2-17-2019,Zack,Texas,USA,,42,2-23-2020,Mary,Minnesota,USA,,42,2-17-2019,Zack,Texas,USA
+43,2-17-2019,Rene,California,USA,,43,2-23-2020,David,New Mexico,United States,,43,2-17-2019,Rene,California,USA
+44,2-17-2019,Eric,Texas,USA,,44,2-23-2020,Rami,Paris,France,,44,2-17-2019,Eric,Texas,USA
+45,2-17-2019,Jarl,North Carolina,USA,,45,2-23-2020,Alex,Maryland,USA,,45,2-17-2019,Jarl,North Carolina,USA
+46,2-24-2019,Alex,California,USA,,46,2-23-2020,Tom,California,USA,,46,2-24-2019,Alex,California,USA
+47,2-24-2019,Kim,United Kingdom,United Kingdom,,47,2-23-2020,Mike,Vermont,USA,,47,2-24-2019,Kim,United Kingdom,United Kingdom
+48,2-24-2019,Roy,Washinton State,USA,,48,2-23-2020,David,Louisiana,USA,,48,2-24-2019,Roy,Washinton State,USA
+49,2-24-2019,Jessica,Florida,USA,,49,2-23-2020,Alex,Australia,Australia,,49,2-24-2019,Jessica,Florida,USA
+50,2-24-2019,Dean,Washinton State,USA,,50,2-23-2020,David,Arizona,USA,,50,2-24-2019,Dean,Washinton State,USA
+51,2-24-2019,Charles,Arkansas,USA,,51,3-1-2020,Arthur,California,USA,,51,2-24-2019,Charles,Arkansas,USA
+52,3-3-2019,Sam,Bahamas,Bahamas,,52,3-1-2020,Thomas,Georgia,USA,,52,3-3-2019,Sam,Bahamas,Bahamas
+53,3-3-2019,Cody,Kentucky,USA,,53,3-1-2020,Mark,Maine,USA,,53,3-3-2019,Cody,Kentucky,USA
+54,3-3-2019,Larry,Florida,USA,,54,3-1-2020,Arturo,Texas,USA,,54,3-3-2019,Larry,Florida,USA
+55,3-3-2019,Alonso,Texas,USA,,55,3-1-2020,Akeem,Pennsylvania,USA,,55,3-3-2019,Alonso,Texas,USA
+56,3-3-2019,Eric,Texas,USA,,56,3-1-2020,Hallie,California,USA,,56,3-3-2019,Eric,Texas,USA
+57,3-3-2019,Ben,Pennsylvania,USA,,57,3-1-2020,Danny,United Kingdom,United Kingdom,,57,3-3-2019,Ben,Pennsylvania,USA
+58,3-10-2019,Aiden,Ontario,Canada,,58,3-1-2020,Jason,South Carolina,USA,,58,3-10-2019,Aiden,Ontario,Canada
+59,3-10-2019,Tim,Wisconsin,USA,,59,3-8-2020,Sam,United Kingdom,United Kingdom,,59,3-10-2019,Tim,Wisconsin,USA
+60,3-10-2019,Taylor,California,USA,,60,3-8-2020,Minh,California,USA,,60,3-10-2019,Taylor,California,USA
+61,3-10-2019,Otangelo,Brazil,Brazil,,61,3-8-2020,Christopher,Tennessee,USA,,61,3-10-2019,Otangelo,Brazil,Brazil
+62,3-10-2019,Jeff,Florida,USA,,62,3-8-2020,James,Ottawa,Canada,,62,3-10-2019,Jeff,Florida,USA
+63,3-10-2019,Bug,Texas,USA,,63,3-8-2020,David,New Jersey,USA,,63,3-10-2019,Bug,Texas,USA
+64,3-10-2019,Icha,Georgia,USA,,64,3-8-2020,Jeremy,Louisiana,USA,,64,3-10-2019,Icha,Georgia,USA
+65,3-17-2019,Kenny,Pennsylvania,USA,,65,3-15-2020,Tom,Missouri,USA,,65,3-17-2019,Kenny,Pennsylvania,USA
+66,3-17-2019,Traci,California,USA,,66,3-15-2020,CJ,North Carolina,USA,,66,3-17-2019,Traci,California,USA
+67,3-17-2019,RAO,Wyoming,USA,,67,3-15-2020,Hassan,California,USA,,67,3-17-2019,RAO,Wyoming,USA
+68,3-17-2019,Mitch,Ohio,USA,,68,3-15-2020,Luke,Arizona,USA,,68,3-17-2019,Mitch,Ohio,USA
+69,3-17-2019,Thomas,Tennessee,USA,,69,3-24-2020,Dean,North Carolina,USA,,69,3-17-2019,Thomas,Tennessee,USA
+70,3-17-2019,Jeff,Virginia,USA,,70,3-24-2020,Brent,California,USA,,70,3-17-2019,Jeff,Virginia,USA
+71,3-17-2019,Terri,Pennsylvania,USA,,71,3-24-2020,Traci,Arkansas,USA,,71,3-17-2019,Terri,Pennsylvania,USA
+72,3-24-2019,Sherwin,Massachusetts,USA,,72,3-24-2020,Damon,Michigan,USA,,72,3-24-2019,Sherwin,Massachusetts,USA
+73,3-24-2019,David,Pennsylvania,USA,,73,3-24-2020,Anna Marie,Indiana,USA,,73,3-24-2019,David,Pennsylvania,USA
+74,3-24-2019,Johnathan,Texas,USA,,74,3-24-2020,Brian,South Carolina,USA,,74,3-24-2019,Johnathan,Texas,USA
+75,3-24-2019,Samantha,Arkansas,USA,,75,3-29-2020,Dave,Vienna,Austria,,75,3-24-2019,Samantha,Arkansas,USA
+76,3-24-2019,Cam,Michigan,USA,,76,3-29-2020,Anthony,Florida,USA,,76,3-24-2019,Cam,Michigan,USA
+77,3-24-2019,Vitaliy,Pennsylvania,USA,,77,3-29-2020,Alex,California,USA,,77,3-24-2019,Vitaliy,Pennsylvania,USA
+78,3-24-2019,Drake,Indiana,USA,,78,3-29-2020,Sean,Minnesota,USA,,78,3-24-2019,Drake,Indiana,USA
+79,3-24-2019,Loki,Virginia,USA,,79,3-29-2020,Omar,California,USA,,79,3-24-2019,Loki,Virginia,USA
+80,3-31-2019,Michael,Texas,USA,,80,3-29-2020,Aaron,Arizona,USA,,80,3-31-2019,Michael,Texas,USA
+81,3-31-2019,Zack,California,USA,,81,3-29-2020,Lana,unknown,unknown,,81,3-31-2019,Zack,California,USA
+82,3-31-2019,Saad,Karachi,Pakistan,,82,4-5-2020,Gavin,Nebraska,USA,,82,3-31-2019,Saad,Karachi,Pakistan
+83,3-31-2019,Gabriel,California,USA,,83,4-5-2020,Brian,District of Columbia,USA,,83,3-31-2019,Gabriel,California,USA
+84,3-31-2019,Murri,Indiana,USA,,84,4-5-2020,Kamal,Alabama,USA,,84,3-31-2019,Murri,Indiana,USA
+85,4-7-2019,Saad,Karachi,Pakistan,,85,4-5-2020,Carlos,Texas,USA,,85,4-7-2019,Saad,Karachi,Pakistan
+86,4-7-2019,Joel,Alabama,USA,,86,4-5-2020,Cade,Florida,USA,,86,4-7-2019,Joel,Alabama,USA
+87,4-7-2019,Rao,Wyoming,USA,,87,4-5-2020,Laura,Michigan,USA,,87,4-7-2019,Rao,Wyoming,USA
+88,4-7-2019,Noah,Arizona,USA,,88,4-5-2020,Justin,Texas,USA,,88,4-7-2019,Noah,Arizona,USA
+89,4-7-2019,Praful,Hyderabad,India,,89,4-12-2020,Guardy,Ottawa,Canada,,89,4-7-2019,Praful,Hyderabad,India
+90,4-7-2019,David,Washinton State,USA,,90,4-12-2020,Dewitt,Washinton State,USA,,90,4-7-2019,David,Washinton State,USA
+91,4-7-2019,Josh,Missouri,USA,,91,4-12-2020,Amene,Texas,USA,,91,4-7-2019,Josh,Missouri,USA
+92,4-14-2019,Tomas,Georgia,USA,,92,4-12-2020,Murray,Indiana,USA,,92,4-14-2019,Tomas,Georgia,USA
+93,4-14-2019,Torrey,Maryland,USA,,93,4-12-2020,Marquel,Georgia,USA,,93,4-14-2019,Torrey,Maryland,USA
+94,4-14-2019,Saad,Karachi,Pakistan,,94,4-12-2020,Amin,New Jersey,USA,,94,4-14-2019,Saad,Karachi,Pakistan
+95,4-21-2019,Alex,Texas,USA,,95,4-12-2020,Greg,Florida,USA,,95,4-21-2019,Alex,Texas,USA
+96,4-21-2019,Renee,Arkansas,USA,,96,4-19-2020,Tony,South Africa,South Africa,,96,4-21-2019,Renee,Arkansas,USA
+97,4-21-2019,Jonathan,Arizona,USA,,97,4-19-2020,Aligaz,Texas,USA,,97,4-21-2019,Jonathan,Arizona,USA
+98,4-21-2019,Jonah,New York State,USA,,98,4-19-2020,Tony,Illinois,USA,,98,4-21-2019,Jonah,New York State,USA
+99,4-21-2019,RAO,Wyoming,USA,,99,4-19-2020,Juan,Colorado,USA,,99,4-21-2019,RAO,Wyoming,USA
+100,4-21-2019,Nikki,United Kingdom,United Kingdom,,100,4-19-2020,Wes,Maine,USA,,100,4-21-2019,Nikki,United Kingdom,United Kingdom
+101,4-28-2019,Jason,California,USA,,101,4-19-2020,Kevin,Mississippi,USA,,101,4-28-2019,Jason,California,USA
+102,4-28-2019,Rob,New York State,USA,,102,4-26-2020,Bug,Texas,USA,,102,4-28-2019,Rob,New York State,USA
+103,4-28-2019,Greg,New York,USA,,103,4-26-2020,Philip,Florida,USA,,103,4-28-2019,Greg,New York,USA
+104,4-28-2019,Jeff,California,USA,,104,4-26-2020,Javier,Florida,USA,,104,4-28-2019,Jeff,California,USA
+105,4-28-2019,Eric,Utah,USA,,105,4-26-2020,Ernesto,Georgia,USA,,105,4-28-2019,Eric,Utah,USA
+106,4-28-2019,David,New Jersey,USA,,106,4-26-2020,Amene,Texas,USA,,106,4-28-2019,David,New Jersey,USA
+107,4-28-2019,Nick,South Africa,South Africa,,107,4-26-2020,Hunter,Texas,USA,,107,4-28-2019,Nick,South Africa,South Africa
+108,5-5-2019,Quinton,North Dakota,USA,,108,4-26-2020,Wilbur,New York State,USA,,108,5-5-2019,Quinton,North Dakota,USA
+109,5-5-2019,Thomas,Georgia,USA,,109,5-3-2020,Javier,Florida,USA,,109,5-5-2019,Thomas,Georgia,USA
+110,5-5-2019,Mr. ID,Japan,Japan,,110,5-3-2020,Marcus,Ohio,USA,,110,5-5-2019,Mr. ID,Japan,Japan
+111,5-5-2019,Mark,London,United Kingdom,,111,5-3-2020,David,Minnesota,USA,,111,5-5-2019,Mark,London,United Kingdom
+112,5-5-2019,David,Georgia,USA,,112,5-3-2020,Amanada,Texas,USA,,112,5-5-2019,David,Georgia,USA
+113,5-5-2019,Zac,California,USA,,113,5-3-2020,Will,Florida,USA,,113,5-5-2019,Zac,California,USA
+114,5-5-2019,Bill,Florida,USA,,114,5-3-2020,Richard,California,USA,,114,5-5-2019,Bill,Florida,USA
+115,5-12-2019,Charles,Texas,USA,,115,5-10-2020,Charles,California,USA,,115,5-12-2019,Charles,Texas,USA
+116,5-12-2019,Alex,Texas,USA,,116,5-10-2020,David,New Jersey,USA,,116,5-12-2019,Alex,Texas,USA
+117,5-12-2019,Massachusettstthew,Tennessee,USA,,117,5-10-2020,Andre,Pennsylvania,USA,,117,5-12-2019,Massachusettstthew,Tennessee,USA
+118,5-12-2019,Dave,United Kingdom,United Kingdom,,118,5-10-2020,Brian,Michigan,USA,,118,5-12-2019,Dave,United Kingdom,United Kingdom
+119,5-12-2019,Gianna,Texas,USA,,119,5-10-2020,Michael,Arizona,USA,,119,5-12-2019,Gianna,Texas,USA
+120,5-12-2019,Ram,New Delhi,India,,120,5-10-2020,Glenn,Pennsylvania,USA,,120,5-12-2019,Ram,New Delhi,India
+121,5-12-2019,Ed,Ohio,USA,,121,5-10-2020,Vladimir,California,USA,,121,5-12-2019,Ed,Ohio,USA
+122,5-12-2019,Mike,California,USA,,122,5-10-2020,Matt,Indiana,USA,,122,5-12-2019,Mike,California,USA
+123,5-12-2019,Saad,Karachi,Pakistan,,123,5-10-2020,Kanyon,Arizona,USA,,123,5-12-2019,Saad,Karachi,Pakistan
+124,5-12-2019,Don,California,USA,,124,5-10-2020,Daniel,California,USA,,124,5-12-2019,Don,California,USA
+125,5-19-2019,Nicolas,Florida,USA,,125,5-17-2020,Trudy,Texas,USA,,125,5-19-2019,Nicolas,Florida,USA
+126,5-19-2019,Rob,New York State,USA,,126,5-17-2020,Debbie,New England,USA,,126,5-19-2019,Rob,New York State,USA
+127,5-19-2019,Saad,Karachi,Pakistan,,127,5-17-2020,Adam,California,USA,,127,5-19-2019,Saad,Karachi,Pakistan
+128,5-19-2019,Vivian,United Kingdom,United Kingdom,,128,5-17-2020,Jack,North Carolina,USA,,128,5-19-2019,Vivian,United Kingdom,United Kingdom
+129,5-19-2019,Asad,Minnesota,USA,,129,5-17-2020,Jack,London,United Kingdom,,129,5-19-2019,Asad,Minnesota,USA
+130,5-19-2019,Mitch,Ohio,USA,,130,5-17-2020,Dean,North Carolina,USA,,130,5-19-2019,Mitch,Ohio,USA
+131,5-26-2019,Fred,Michigan,USA,,131,5-24-2020,Javier,Florida,USA,,131,5-26-2019,Fred,Michigan,USA
+132,5-26-2019,Ryan,California,USA,,132,5-24-2020,Dormand,New Jersey,USA,,132,5-26-2019,Ryan,California,USA
+133,5-26-2019,Murri,Indiana,USA,,133,5-24-2020,Nathan,Colorado,USA,,133,5-26-2019,Murri,Indiana,USA
+134,5-26-2019,Frank,Texas,USA,,134,5-24-2020,David,Colorado,USA,,134,5-26-2019,Frank,Texas,USA
+135,5-26-2019,Daniel,Wisconsin,USA,,135,5-24-2020,Zachary,Alabama,USA,,135,5-26-2019,Daniel,Wisconsin,USA
+136,5-26-2019,Tom,Liverpool,United Kingdom,,136,5-24-2020,Raul,Texas,USA,,136,5-26-2019,Tom,Liverpool,United Kingdom
+137,6-2-2019,Josh,Michigan,USA,,137,5-31-2020,Andrew,California,USA,,137,6-2-2019,Josh,Michigan,USA
+138,6-2-2019,Greg,Colorado,USA,,138,5-31-2020,Julian,Ontario,Canada,,138,6-2-2019,Greg,Colorado,USA
+139,6-2-2019,Karin,California,USA,,139,5-31-2020,Keyon,Utah,USA,,139,6-2-2019,Karin,California,USA
+140,6-2-2019,Saad,Karachi,Pakistan,,140,5-31-2020,Dave,Utah,USA,,140,6-2-2019,Saad,Karachi,Pakistan
+141,6-2-2019,Theo,United Arab Emirates,United Arab Emirates,,141,5-31-2020,David,Hawaii,USA,,141,6-2-2019,Theo,United Arab Emirates,United Arab Emirates
+142,6-2-2019,Jonathan,Illinois,USA,,142,5-31-2020,Miner,Arizona,USA,,142,6-2-2019,Jonathan,Illinois,USA
+143,6-2-2019,Stephen,New York State,USA,,143,5-31-2020,Oscar,Mexico,USA,,143,6-2-2019,Stephen,New York State,USA
+144,6-2-2019,Charles,Arkansas,USA,,144,5-31-2020,Ben,California,USA,,144,6-2-2019,Charles,Arkansas,USA
+145,6-2-2019,Daniel,Wisconsin,USA,,145,5-31-2020,Cory,South Carolina,USA,,145,6-2-2019,Daniel,Wisconsin,USA
+146,6-9-2019,Thomas,Georgia,USA,,146,6-7-2020,David,Georgia,USA,,146,6-9-2019,Thomas,Georgia,USA
+147,6-9-2019,Clint,South Carolina,USA,,147,6-7-2020,David,New York State,USA,,147,6-9-2019,Clint,South Carolina,USA
+148,6-9-2019,Duke,Virginia,USA,,148,6-7-2020,Paul,Georgia,USA,,148,6-9-2019,Duke,Virginia,USA
+149,6-9-2019,Jay,Virginia,USA,,149,6-7-2020,Todd,Colorado,USA,,149,6-9-2019,Jay,Virginia,USA
+150,6-9-2019,Stephen,Australia,Australia,,150,6-7-2020,Tom,Ohio,USA,,150,6-9-2019,Stephen,Australia,Australia
+151,6-9-2019,Sean,Pennsylvania,USA,,151,6-7-2020,Miner,Arizona,USA,,151,6-9-2019,Sean,Pennsylvania,USA
+152,6-16-2019,RAO,Wyoming,USA,,152,6-7-2020,Mallory,Oregon,USA,,152,6-16-2019,RAO,Wyoming,USA
+153,6-16-2019,Cory,New York State,USA,,153,6-7-2020,RJ,Colorado,USA,,153,6-16-2019,Cory,New York State,USA
+154,6-16-2019,Patrick,Ohio,USA,,154,6-7-2020,Jesse,California,USA,,154,6-16-2019,Patrick,Ohio,USA
+155,6-16-2019,Ryan,Florida,USA,,155,6-7-2020,Steve,Ohio,USA,,155,6-16-2019,Ryan,Florida,USA
+156,6-16-2019,Dave,Missouri,USA,,156,6-14-2020,Dave,Austria,Austria,,156,6-16-2019,Dave,Missouri,USA
+157,6-16-2019,Brandon,Arizona,USA,,157,6-14-2020,Sawyer,Australia,Australia,,157,6-16-2019,Brandon,Arizona,USA
+158,6-16-2019,Drake,Florida,USA,,158,6-14-2020,Kevin,Arizona,USA,,158,6-16-2019,Drake,Florida,USA
+159,6-16-2019,Adrian,Texas,USA,,159,6-14-2020,Douglas,Georgia,USA,,159,6-16-2019,Adrian,Texas,USA
+160,6-16-2019,Traci,Arkansas,USA,,160,6-14-2020,Malcolm,California,USA,,160,6-16-2019,Traci,Arkansas,USA
+161,06-23-2019,John,Texas,USA,,161,6-14-2020,Nathan,Idaho,USA,,161,06-23-2019,John,Texas,USA
+162,06-23-2019,Abel,Florida,USA,,162,6-14-2020,Kevin,Oregon,USA,,162,06-23-2019,Abel,Florida,USA
+163,06-23-2019,David,Georgia,USA,,163,6-14-2020,Justin,Minnesota,USA,,163,06-23-2019,David,Georgia,USA
+164,06-23-2019,Brian,Nevada,USA,,164,6-14-2020,Chris,Idaho,USA,,164,06-23-2019,Brian,Nevada,USA
+165,06-23-2019,Frank,Texas,USA,,165,6-14-2020,Andy,New Mexico,USA,,165,06-23-2019,Frank,Texas,USA
+166,06-23-2019,melanie,Ottowa,Canada,,166,6-14-2020,Carlos,Peru,Peru,,166,06-23-2019,melanie,Ottowa,Canada
+167,06-23-2019,Hugh,New Zealand,New Zealand,,167,6-14-2020,Sebastian,Belgium,USA,,167,06-23-2019,Hugh,New Zealand,New Zealand
+168,06-23-2019,Adrian,Texas,USA,,168,6-14-2020,Greg,Ohio,USA,,168,06-23-2019,Adrian,Texas,USA
+169,06-23-2019,Michelle,Ontario,Canada,,169,6-14-2020,Kim,California,USA,,169,06-23-2019,Michelle,Ontario,Canada
+170,06-23-2019,Abe,New Jersey,USA,,170,6-21-2020,Earl,New York State,USA,,170,06-23-2019,Abe,New Jersey,USA
+171,06-30-2019,Gwen,Massachusetts,USA,,171,6-21-2020,Will,Washinton State,USA,,171,06-30-2019,Gwen,Massachusetts,USA
+172,06-30-2019,Michelle,California,USA,,172,6-21-2020,Victor,New Mexico,USA,,172,06-30-2019,Michelle,California,USA
+173,06-30-2019,Rob,Georgia,USA,,173,6-21-2020,Ivan,Russia,Russia,,173,06-30-2019,Rob,Georgia,USA
+174,06-30-2019,Amber,California,USA,,174,6-21-2020,Joseph,Nova Scotia,Canada,,174,06-30-2019,Amber,California,USA
+175,06-30-2019,David,Texas,USA,,175,6-21-2020,Sy,Maryland,USA,,175,06-30-2019,David,Texas,USA
+176,06-30-2019,Christian,Ohio,USA,,176,6-28-2020,Michael,Pennsylvania,USA,,176,06-30-2019,Christian,Ohio,USA
+177,06-30-2019,Luciano,Florida,USA,,177,6-28-2020,David,Mexico City,Mexico,,177,06-30-2019,Luciano,Florida,USA
+178,07-07-2019,Roy,Israel,Israel,,178,6-28-2020,Steve,Ohio,USA,,178,07-07-2019,Roy,Israel,Israel
+179,07-07-2019,Frank,Connecticut,USA,,179,6-28-2020,Joshua,Illinois,USA,,179,07-07-2019,Frank,Connecticut,USA
+180,07-07-2019,RAO,Wyoming,USA,,180,6-28-2020,Chris,Tennessee,USA,,180,07-07-2019,RAO,Wyoming,USA
+181,07-07-2019,Chris,Idaho,USA,,181,6-28-2020,Kevin,Oregon,USA,,181,07-07-2019,Chris,Idaho,USA
+182,07-07-2019,Luke,Mississippi,USA,,182,6-28-2020,Paulo,New York State,USA,,182,07-07-2019,Luke,Mississippi,USA
+183,07-07-2019,Michelle,California,USA,,183,6-28-2020,Cory,New York State,USA,,183,07-07-2019,Michelle,California,USA
+184,07-14-2019,Jacob,Missouri,USA,,184,6-28-2020,Elijah,New Mexico,USA,,184,07-14-2019,Jacob,Missouri,USA
+185,07-14-2019,Frank,Connecticut,USA,,185,6-28-2020,Tory,Illinois,USA,,185,07-14-2019,Frank,Connecticut,USA
+186,07-14-2019,Johnathan,England,United Kingdom,,186,7-5-2020,Emyn,Ohio,USA,,186,07-14-2019,Johnathan,England,United Kingdom
+187,07-14-2019,Paul,New York State,USA,,187,7-5-2020,Jeury,New York State,USA,,187,07-14-2019,Paul,New York State,USA
+188,07-14-2019,Steffon,Illinois,USA,,188,7-5-2020,Oscar,Indiana,USA,,188,07-14-2019,Steffon,Illinois,USA
+189,07-14-2019,David,Georgia,USA,,189,7-5-2020,Gerard,Connecticut,USA,,189,07-14-2019,David,Georgia,USA
+190,07-14-2019,David,Florida,USA,,190,7-5-2020,Daniel,California,USA,,190,07-14-2019,David,Florida,USA
+191,07-14-2019,Johnathan,North Carolina,USA,,191,7-5-2020,Alex,Virginia,USA,,191,07-14-2019,Johnathan,North Carolina,USA
+192,07-21-2019,Jake,California,USA,,192,7-5-2020,Angel,North Carolina,USA,,192,07-21-2019,Jake,California,USA
+193,07-21-2019,David,California,USA,,193,7-5-2020,Justin,Minnesota,USA,,193,07-21-2019,David,California,USA
+194,07-21-2019,David,California,USA,,194,7-5-2020,Mark,Rhode Island,USA,,194,07-21-2019,David,California,USA
+195,07-21-2019,Kevin,California,USA,,195,7-5-2020,Luke,Georgia,USA,,195,07-21-2019,Kevin,California,USA
+196,07-21-2019,James,North Carolina,USA,,196,7-5-2020,Michael,California,USA,,196,07-21-2019,James,North Carolina,USA
+197,07-21-2019,Daniel,California,USA,,197,7-12-2020,Jonathan,Michigan,USA,,197,07-21-2019,Daniel,California,USA
+198,07-21-2019,Eloise,Iowa,USA,,198,7-12-2020,Stephen,Illinois,USA,,198,07-21-2019,Eloise,Iowa,USA
+199,07-21-2019,Matt,South Carolina,USA,,199,7-12-2020,Matthew,North Carolina,USA,,199,07-21-2019,Matt,South Carolina,USA
+200,07-28-2019,Jared,Saskatchewan,Canada,,200,7-12-2020,RJ,Colorado,USA,,200,07-28-2019,Jared,Saskatchewan,Canada
+201,07-28-2019,Noah,New Mexico,USA,,201,7-12-2020,Jessica,Vermont,USA,,201,07-28-2019,Noah,New Mexico,USA
+202,07-28-2019,Darius,Illinois,USA,,202,7-12-2020,Mary,Minnesota,USA,,202,07-28-2019,Darius,Illinois,USA
+203,07-28-2019,Steve,United Kingdom,United Kingdom,,203,7-19-2020,Josh,Tennessee,USA,,203,07-28-2019,Steve,United Kingdom,United Kingdom
+204,07-28-2019,Jesus,Mexico,Mexico,,204,7-19-2020,Russell,Georgia,USA,,204,07-28-2019,Jesus,Mexico,Mexico
+205,07-28-2019,William,Arizona,USA,,205,7-19-2020,Kendall,Washinton State,USA,,205,07-28-2019,William,Arizona,USA
+206,08-4-2019,Chris,Ohio,USA,,206,7-19-2020,Mo,Canada,Canada,,206,08-4-2019,Chris,Ohio,USA
+207,08-4-2019,Lee,Alabama,USA,,207,7-19-2020,Lance,Ohio,USA,,207,08-4-2019,Lee,Alabama,USA
+208,08-4-2019,Peter,California,USA,,208,7-26-2020,Keith,Nebraska,USA,,208,08-4-2019,Peter,California,USA
+209,08-4-2019,Charlie,Jerusalem,Israel,,209,7-26-2020,Steve,Ohio,USA,,209,08-4-2019,Charlie,Jerusalem,Israel
+210,08-4-2019,Valerie,Pennsylvania,USA,,210,7-26-2020,Nicolas,New York State,USA,,210,08-4-2019,Valerie,Pennsylvania,USA
+211,08-4-2019,Nathan,New York State,USA,,211,7-26-2020,Craig,Texas,USA,,211,08-4-2019,Nathan,New York State,USA
+212,08-4-2019,David,California,USA,,212,7-26-2020,Julian,Ontario,Canada,,212,08-4-2019,David,California,USA
+213,08-11-2019,Jeff,Florida,USA,,213,7-26-2020,Eryn,Texas,USA,,213,08-11-2019,Jeff,Florida,USA
+214,08-11-2019,Kyle,Canada,Canada,,214,7-26-2020,Jelmar,Holland,Netherlands,,214,08-11-2019,Kyle,Canada,Canada
+215,08-11-2019,Mark,United Kingdom,United Kingdom,,215,7-26-2020,Lloyd,Washinton State,USA,,215,08-11-2019,Mark,United Kingdom,United Kingdom
+216,08-11-2019,Rose,Illinois,USA,,216,7-26-2020,James,Maine,USA,,216,08-11-2019,Rose,Illinois,USA
+217,08-11-2019,Ben,Oregon,USA,,217,08-02-2020,Jenna,California,USA,,217,08-11-2019,Ben,Oregon,USA
+218,08-11-2019,Chris,California,USA,,218,08-02-2020,Ricky,Georgia,USA,,218,08-11-2019,Chris,California,USA
+219,08-11-2019,Jason,Virginia,USA,,219,08-02-2020,James,Maine,USA,,219,08-11-2019,Jason,Virginia,USA
+220,08-18-2019,Micael,Florida,USA,,220,08-02-2020,Mike,California,USA,,220,08-18-2019,Micael,Florida,USA
+221,08-18-2019,Rafael,Florida,USA,,221,08-02-2020,Chandu,Ontario,Canada,,221,08-18-2019,Rafael,Florida,USA
+222,08-18-2019,Kelly,Iran,Iran,,222,08-02-2020,Jordan,California,USA,,222,08-18-2019,Kelly,Iran,Iran
+223,08-25-2019,Noah,Arizona,USA,,223,08-02-2020,Greg,Ohio,USA,,223,08-25-2019,Noah,Arizona,USA
+224,08-25-2019,Trey,Oklahoma,USA,,224,08-02-2020,Journey,North Carolina,USA,,224,08-25-2019,Trey,Oklahoma,USA
+225,08-25-2019,Cora,Missouri,USA,,225,08-02-2020,Alex,New Jersey,USA,,225,08-25-2019,Cora,Missouri,USA
+226,08-25-2019,Angela,Washinton State,USA,,226,08-09-2020,Dennis,New York State,USA,,226,08-25-2019,Angela,Washinton State,USA
+227,08-25-2019,George,Oklahoma,USA,,227,08-09-2020,Steve,Virginia,USA,,227,08-25-2019,George,Oklahoma,USA
+228,08-25-2019,Justin,New Jersey,USA,,228,08-09-2020,Alex,Florida,USA,,228,08-25-2019,Justin,New Jersey,USA
+229,08-25-2019,Heathen Hammer,Connecticut,USA,,229,08-09-2020,William,Australia,Australia,,229,08-25-2019,Heathen Hammer,Connecticut,USA
+230,08-25-2019,David,Florida,USA,,230,08-09-2020,Guillermo,California,USA,,230,08-25-2019,David,Florida,USA
+231,08-25-2019,Jacob,Florida,USA,,231,08-09-2020,Mike,Washinton State,USA,,231,08-25-2019,Jacob,Florida,USA
+232,08-25-2019,Jou,New York State,USA,,232,08-09-2020,Austin,Wisconsin,USA,,232,08-25-2019,Jou,New York State,USA
+233,08-25-2019,Luke,North Carolina,USA,,233,08-16-2020,Ricky,California,USA,,233,08-25-2019,Luke,North Carolina,USA
+234,08-25-2019,Joel,California,USA,,234,08-16-2020,Aaron,Wisconsin,USA,,234,08-25-2019,Joel,California,USA
+235,09-1-2019,Parmender,Pennsylvania,USA,,235,08-16-2020,Carl,Ontario,Canada,,235,09-1-2019,Parmender,Pennsylvania,USA
+236,09-1-2019,Gilles,United Kingdom,United Kingdom,,236,08-16-2020,Mark,Florida,USA,,236,09-1-2019,Gilles,United Kingdom,United Kingdom
+237,09-1-2019,Daniel,Tennessee,USA,,237,08-16-2020,Gene,Pennsylvania,USA,,237,09-1-2019,Daniel,Tennessee,USA
+238,09-1-2019,Kevin,New York State,USA,,238,08-16-2020,Joe,Lebanon,Lebanon,,238,09-1-2019,Kevin,New York State,USA
+239,09-1-2019,Michael,Austria,Austria,,239,08-16-2020,Adrian,Texas,USA,,239,09-1-2019,Michael,Austria,Austria
+240,09-1-2019,Christy,Florida,USA,,240,08-16-2020,David,Mexico,Mexico,,240,09-1-2019,Christy,Florida,USA
+241,09-1-2019,Otangelo,Brazil,Brazil,,241,08-16-2020,James,Nevada,USA,,241,09-1-2019,Otangelo,Brazil,Brazil
+242,09-1-2019,Trudy,California,USA,,242,08-23-2020,Jacob,Illinois,USA,,242,09-1-2019,Trudy,California,USA
+243,09-1-2019,Anthony,California,USA,,243,08-23-2020,Arthur,Europe,Europe,,243,09-1-2019,Anthony,California,USA
+244,09-8-2019,Michael,Maryland,USA,,244,08-23-2020,Josiah,California,USA,,244,09-8-2019,Michael,Maryland,USA
+245,09-8-2019,Karen,California,USA,,245,08-23-2020,Dan,Romania,Romania,,245,09-8-2019,Karen,California,USA
+246,09-8-2019,Justin,New Jersey,USA,,246,08-23-2020,Sirha,Connecticut,USA,,246,09-8-2019,Justin,New Jersey,USA
+247,09-8-2019,Tasha,Nevada,USA,,247,08-23-2020,Marie,Virginia,USA,,247,09-8-2019,Tasha,Nevada,USA
+248,09-8-2019,Ellen,Michigan,USA,,248,08-30-2020,Jack,Canada,Canada,,248,09-8-2019,Ellen,Michigan,USA
+249,09-8-2019,Doug,Ohio,USA,,249,08-30-2020,Ryan,New York State,USA,,249,09-8-2019,Doug,Ohio,USA
+250,09-8-2019,Mike,Ohio,USA,,250,08-30-2020,Linguistie,Ukraine,Ukraine,,250,09-8-2019,Mike,Ohio,USA
+251,09-8-2019,Michelle,California,USA,,251,08-30-2020,Sain,Texas,USA,,251,09-8-2019,Michelle,California,USA
+252,09-15-2019,John,Connecticut,USA,,252,08-30-2020,Jonathan,Arizona,USA,,252,09-15-2019,John,Connecticut,USA
+253,09-15-2019,Aaron,Pennsylvania,USA,,253,09-06-2020,John,Florida,USA,,253,09-15-2019,Aaron,Pennsylvania,USA
+254,09-15-2019,AC,Illinois,USA,,254,09-06-2020,Ralph,Florida,USA,,254,09-15-2019,AC,Illinois,USA
+255,09-15-2019,Ron,Texas,USA,,255,09-06-2020,Syngyn,Pennsylvania,USA,,255,09-15-2019,Ron,Texas,USA
+256,09-15-2019,Dale,Ohio,USA,,256,09-06-2020,Jack,Canada,Canada,,256,09-15-2019,Dale,Ohio,USA
+257,09-15-2019,Mojo,United Kingdom,United Kingdom,,257,09-06-2020,Keyon,California,USA,,257,09-15-2019,Mojo,United Kingdom,United Kingdom
+258,09-15-2019,Oliver,Washinton State,USA,,258,09-06-2020,Kendall,Washinton State,USA,,258,09-15-2019,Oliver,Washinton State,USA
+259,09-15-2019,Guillermo,California,USA,,259,09-13-2020,Isaac,Ohio,USA,,259,09-15-2019,Guillermo,California,USA
+260,09-22-2019,Cazz,Australia,Australia,,260,09-13-2020,Alexander,Norway,Norway,,260,09-22-2019,Cazz,Australia,Australia
+261,09-22-2019,Rick,North Carolina,USA,,261,09-13-2020,Patrick,Washinton State,USA,,261,09-22-2019,Rick,North Carolina,USA
+262,09-22-2019,Bronson,New Zealand,New Zealand,,262,09-13-2020,Joseph,Georgia,USA,,262,09-22-2019,Bronson,New Zealand,New Zealand
+263,09-22-2019,Ismail,South Africa,South Africa,,263,09-13-2020,Kendall,Oregon,USA,,263,09-22-2019,Ismail,South Africa,South Africa
+264,09-29-2019,Ben,Massachusetts,USA,,264,09-13-2020,Kay,New Hampshire,USA,,264,09-29-2019,Ben,Massachusetts,USA
+265,09-29-2019,Marcus,Ohio,USA,,265,09-13-2020,Danny,London,United Kingdom,,265,09-29-2019,Marcus,Ohio,USA
+266,09-29-2019,Mark,Ohio,USA,,266,09-13-2020,Mark,Illinois,USA,,266,09-29-2019,Mark,Ohio,USA
+267,09-29-2019,Spencer,Texas,USA,,267,09-13-2020,George,Texas,USA,,267,09-29-2019,Spencer,Texas,USA
+268,09-29-2019,Jerry,Colorado,USA,,268,09-20-2020,Jonathan,United Kingdom,United Kingdom,,268,09-29-2019,Jerry,Colorado,USA
+269,09-29-2019,Rob,Quebec,Canada,,269,09-20-2020,Shona,New York State,USA,,269,09-29-2019,Rob,Quebec,Canada
+270,09-29-2019,Monique,Florida,USA,,270,09-20-2020,Dean,California,USA,,270,09-29-2019,Monique,Florida,USA
+271,10-6-2019,Sean,Nebraska,USA,,271,09-20-2020,Brian,California,USA,,271,10-6-2019,Sean,Nebraska,USA
+272,10-6-2019,Chloe,Maryland,USA,,272,09-20-2020,Rick,Michigan,USA,,272,10-6-2019,Chloe,Maryland,USA
+273,10-6-2019,Nate,Alabama,USA,,273,09-20-2020,Ron,Florida,USA,,273,10-6-2019,Nate,Alabama,USA
+274,10-6-2019,Greg,Colorado,USA,,274,09-20-2020,Mark,New Mexico,USA,,274,10-6-2019,Greg,Colorado,USA
+275,10-6-2019,Vik,Indiana,USA,,275,09-20-2020,Nathan,Louisiana,USA,,275,10-6-2019,Vik,Indiana,USA
+276,10-6-2019,Stevie,New York State,USA,,276,09-20-2020,Michael,Arizona,USA,,276,10-6-2019,Stevie,New York State,USA
+277,10-6-2019,William,Arizona,USA,,277,09-20-2020,Vernaz,United Kingdom,United Kingdom,,277,10-6-2019,William,Arizona,USA
+278,10-6-2019,Otangelo,Brazil,Brazil,,278,09-27-2020,Jake,California,USA,,278,10-6-2019,Otangelo,Brazil,Brazil
+279,10-6-2019,Jeff,Florida,USA,,279,09-27-2020,Jose,Georgia,USA,,279,10-6-2019,Jeff,Florida,USA
+280,10-6-2019,Private Citizen,Colorado,USA,,280,09-27-2020,Lauren,New York State,USA,,280,10-6-2019,Private Citizen,Colorado,USA
+281,10-6-2019,Nicholas,Norway,Norway,,281,09-27-2020,Lisa,Florida,USA,,281,10-6-2019,Nicholas,Norway,Norway
+282,10-13-2019,Richard,Malaysia,Malaysia,,282,09-27-2020,Jacob,California,USA,,282,10-13-2019,Richard,Malaysia,Malaysia
+283,10-13-2019,Joel,Alabama,USA,,283,09-27-2020,Joe,Illinois,USA,,283,10-13-2019,Joel,Alabama,USA
+284,10-13-2019,John,New York State,USA,,284,09-27-2020,Dan,New York State,USA,,284,10-13-2019,John,New York State,USA
+285,10-13-2019,James,Louisiana,USA,,285,09-27-2020,Enoch,Pennsylvania,USA,,285,10-13-2019,James,Louisiana,USA
+286,10-13-2019,Ian,United Kingdom,United Kingdom,,286,09-27-2020,Jeremy,Nevada,USA,,286,10-13-2019,Ian,United Kingdom,United Kingdom
+287,10-13-2019,Marcus,Germany,USA,,287,09-27-2020,Anthony,Virginia,USA,,287,10-13-2019,Marcus,Germany,USA
+288,10-13-2019,Lucas,South Dakota,USA,,288,10-4-2020,Hunter,Ohio,USA,,288,10-13-2019,Lucas,South Dakota,USA
+289,10-13-2019,Alex,Hawaii,USA,,289,10-4-2020,Nathan,Mexico,Mexico,,289,10-13-2019,Alex,Hawaii,USA
+290,10-20-2019,Michael,Washinton State,USA,,290,10-4-2020,Ricky,Columbia,Columbia,,290,10-20-2019,Michael,Washinton State,USA
+291,10-20-2019,Shaheem,Pennsylvania,USA,,291,10-4-2020,Alvin,North Carolina,USA,,291,10-20-2019,Shaheem,Pennsylvania,USA
+292,10-20-2019,Mean,Washinton State,USA,,292,10-4-2020,Robert,California,USA,,292,10-20-2019,Mean,Washinton State,USA
+293,10-20-2019,David,California,USA,,293,10-4-2020,Mars,unknown,unknown,,293,10-20-2019,David,California,USA
+294,10-20-2019,Will,Pennsylvania,USA,,294,10-4-2020,Danny,United Kingdom,United Kingdom,,294,10-20-2019,Will,Pennsylvania,USA
+295,10-20-2019,Carlos,Florida,USA,,295,10-4-2020,Wevvyj,Massachusetts,USA,,295,10-20-2019,Carlos,Florida,USA
+296,10-20-2019,Debbie,New England,USA,,296,10-4-2020,Brent,California,USA,,296,10-20-2019,Debbie,New England,USA
+297,10-27-2019,Jerry,Minnesota,USA,,297,10-4-2020,John,New Jersey,USA,,297,10-27-2019,Jerry,Minnesota,USA
+298,10-27-2019,Christian,Denmark,Denmark,,298,10-4-2020,G,North Carolina,USA,,298,10-27-2019,Christian,Denmark,Denmark
+299,10-27-2019,Nick,Oklahoma,USA,,299,10-4-2020,Sam,Nevada,USA,,299,10-27-2019,Nick,Oklahoma,USA
+300,10-27-2019,John,Georgia,USA,,300,10-11-2020,Jelmer,Netherlands,Netherlands,,300,10-27-2019,John,Georgia,USA
+301,10-27-2019,Maurice,Texas,USA,,301,10-11-2020,Marius,Alabama,USA,,301,10-27-2019,Maurice,Texas,USA
+302,10-27-2019,Jamie,Arkansas,USA,,302,10-11-2020,Omniskeptic,Canada,Canada,,302,10-27-2019,Jamie,Arkansas,USA
+303,10-27-2019,Mike,Arizona,USA,,303,10-11-2020,Jacob,United Kingdom,United Kingdom,,303,10-27-2019,Mike,Arizona,USA
+304,10-27-2019,Gman,New Jersey,USA,,304,10-11-2020,Shannon,Texas,USA,,304,10-27-2019,Gman,New Jersey,USA
+305,11-3-2019,Kenny,Oklahoma,USA,,305,10-11-2020,Nadir,Florida,USA,,305,11-3-2019,Kenny,Oklahoma,USA
+306,11-3-2019,Chris,Tennessee,USA,,306,10-11-2020,Jeff,Florida,USA,,306,11-3-2019,Chris,Tennessee,USA
+307,11-3-2019,John,Tennessee,USA,,307,10-18-2020,Kel,Utah,USA,,307,11-3-2019,John,Tennessee,USA
+308,11-3-2019,Jarrod,Florida,USA,,308,10-18-2020,Al,Poland,Poland,,308,11-3-2019,Jarrod,Florida,USA
+309,11-3-2019,Dean,North Carolina,USA,,309,10-18-2020,Alvin,North Carolina,USA,,309,11-3-2019,Dean,North Carolina,USA
+310,11-10-2019,Jim,California,USA,,310,10-18-2020,RJ,Colorado,USA,,310,11-10-2019,Jim,California,USA
+311,11-10-2019,Alexander,Germany,Germany,,311,10-18-2020,Kim,Oregon,USA,,311,11-10-2019,Alexander,Germany,Germany
+312,11-10-2019,tyler,Missouri,USA,,312,10-18-2020,David,California,USA,,312,11-10-2019,tyler,Missouri,USA
+313,11-10-2019,John,Georgia,USA,,313,10-25-2020,Heath,Texas,USA,,313,11-10-2019,John,Georgia,USA
+314,11-10-2019,Kenny,Oklahoma,USA,,314,10-25-2020,Adam,Romania,Romania,,314,11-10-2019,Kenny,Oklahoma,USA
+315,11-10-2019,Steve,Washinton State,USA,,315,10-25-2020,Meerkat,Utah,USA,,315,11-10-2019,Steve,Washinton State,USA
+316,11-10-2019,Kevin,Alaska,USA,,316,10-25-2020,Ray,Colorado,USA,,316,11-10-2019,Kevin,Alaska,USA
+317,11-10-2019,Anonymous,Texas,USA,,317,10-25-2020,Catholic Traditionalist,Louisiana,USA,,317,11-10-2019,Anonymous,Texas,USA
+318,11-10-2019,Rob,Quebec,Canada,,318,10-25-2020,Joe,Missouri,USA,,318,11-10-2019,Rob,Quebec,Canada
+319,11-17-2019,Brian,Ohio,USA,,319,10-25-2020,David,California,United States,,319,11-17-2019,Brian,Ohio,USA
+320,11-17-2019,Charles,Texas,USA,,320,11-1-2020,Eddie,Canada,Canada,,320,11-17-2019,Charles,Texas,USA
+321,11-17-2019,Joel,Alabama,USA,,321,11-1-2020,Ulrich,Mexico,Mexico,,321,11-17-2019,Joel,Alabama,USA
+322,11-17-2019,Patrick,Florida,USA,,322,11-1-2020,Lester,North Carolina,USA,,322,11-17-2019,Patrick,Florida,USA
+323,11-17-2019,Paul,United Kingdom,United Kingdom,,323,11-1-2020,Anne,Turkey,Turkey,,323,11-17-2019,Paul,United Kingdom,United Kingdom
+324,11-17-2019,Jonathan,Arizona,USA,,324,11-1-2020,Jesus,California,USA,,324,11-17-2019,Jonathan,Arizona,USA
+325,11-17-2019,Jeroen,Curacao,Southern Caribbean Sea,,325,11-1-2020,Anthony,Florida,USA,,325,11-17-2019,Jeroen,Curacao,Southern Caribbean Sea
+326,11-17-2019,CC,Canada,Canada,,326,11-1-2020,Dmitriy,California,USA,,326,11-17-2019,CC,Canada,Canada
+327,11-17-2019,Eddie,New York State,USA,,327,11-1-2020,Cindy,Belgium,Germany,,327,11-17-2019,Eddie,New York State,USA
+328,11-17-2019,Rick,Canada,Canada,,328,11-1-2020,John,Georgia,USA,,328,11-17-2019,Rick,Canada,Canada
+329,11-24-2019,Gohan,Texas,USA,,329,11-1-2020,Preston,Utah,USA,,329,11-24-2019,Gohan,Texas,USA
+330,11-24-2019,Richard,Malaysia,Malaysia,,330,11-8-2020,Bonnie,Wisconsin,USA,,330,11-24-2019,Richard,Malaysia,Malaysia
+331,11-24-2019,Caleb,Pennsylvania,USA,,331,11-8-2020,Alvin,North Carolina,USA,,331,11-24-2019,Caleb,Pennsylvania,USA
+332,11-24-2019,Canadian Catholic,,Canada,,332,11-8-2020,David,Pennsylvania,USA,,332,11-24-2019,Canadian Catholic,Canada,Canada
+333,11-24-2019,Richard,Arizona,USA,,333,11-8-2020,Lord Methane,California,USA,,333,11-24-2019,Richard,Arizona,USA
+334,11-24-2019,Guillermo,California,USA,,334,11-8-2020,Lee,Georgia,USA,,334,11-24-2019,Guillermo,California,USA
+335,11-24-2019,Tony,New York State,USA,,335,11-8-2020,Lester,North Carolina,USA,,335,11-24-2019,Tony,New York State,USA
+336,12-1-2019,Vanessa,Massachusetts,USA,,336,11-8-2020,Mike,Ohio,USA,,336,12-1-2019,Vanessa,Massachusetts,USA
+337,12-1-2019,Ryan,Indiana,USA,,337,11-8-2020,Andrew,North Carolina,USA,,337,12-1-2019,Ryan,Indiana,USA
+338,12-1-2019,Michael,Texas,USA,,338,11-8-2020,Rick,Georgia,USA,,338,12-1-2019,Michael,Texas,USA
+339,12-1-2019,Bree,Washinton State,USA,,339,11-22-2020,Michael,Colorado,USA,,339,12-1-2019,Bree,Washinton State,USA
+340,12-1-2019,Dean,North Carolina,USA,,340,11-22-2020,Paul,England,England,,340,12-1-2019,Dean,North Carolina,USA
+341,12-1-2019,Nick,New York State,USA,,341,11-22-2020,Enoch,Pennsylvania,USA,,341,12-1-2019,Nick,New York State,USA
+342,12-1-2019,Danny,London,United Kingdom,,342,11-22-2020,Danny,Louisiana,USA,,342,12-1-2019,Danny,London,United Kingdom
+343,12-1-2019,Levi,Washinton State,USA,,343,11-22-2020,Beth,Minnesota,USA,,343,12-1-2019,Levi,Washinton State,USA
+344,12-8-2019,Ray,Michigan,USA,,344,11-22-2020,Greg,Florida,USA,,344,12-8-2019,Ray,Michigan,USA
+345,12-8-2019,Charlotte,California,USA,,345,11-22-2020,Mac,California,USA,,345,12-8-2019,Charlotte,California,USA
+346,12-8-2019,Danny,London,United Kingdom,,346,11-22-2020,Julian,Florida,USA,,346,12-8-2019,Danny,London,United Kingdom
+347,12-8-2019,Joseph,New York State,USA,,347,11-29-2020,Mark,unknown,unknown,,347,12-8-2019,Joseph,New York State,USA
+348,12-15-2019,Jason,Maryland,USA,,348,11-29-2020,Amber,South Carolina,USA,,348,12-15-2019,Jason,Maryland,USA
+349,12-15-2019,John,Texas,USA,,349,11-29-2020,Chase,Texas,USA,,349,12-15-2019,John,Texas,USA
+350,12-15-2019,Anonymous,Virginia,USA,,350,11-29-2020,Sid,Nevada,USA,,350,12-15-2019,Anonymous,Virginia,USA
+351,12-15-2019,Brough,Canada,Canada,,351,11-29-2020,Sam,Pennsylvania,USA,,351,12-15-2019,Brough,Canada,Canada
+352,12-15-2019,Dana,Texas,USA,,352,11-29-2020,Steven,Georgia,USA,,352,12-15-2019,Dana,Texas,USA
+353,12-15-2019,Smokey,unknown,unknown,,353,11-29-2020,Andrea,California,USA,,353,12-15-2019,Smokey,unknown,unknown
+354,12-15-2019,Zack,New England,USA,,354,11-29-2020,Skye,Colorado,USA,,354,12-15-2019,Zack,New England,USA
+355,12-22-2019,Matt,Michigan,USA,,355,11-29-2020,Joe,Virginia,USA,,355,12-22-2019,Matt,Michigan,USA
+356,12-22-2019,Gregory,Massachusetts,USA,,356,12-06-2020,Stephen,Oregon,USA,,356,12-22-2019,Gregory,Massachusetts,USA
+357,12-22-2019,James,North Carolina,USA,,357,12-06-2020,Ahmad,Syria,Syria,,357,12-22-2019,James,North Carolina,USA
+358,12-22-2019,Valued Customer,MidWest,USA,,358,12-06-2020,Daniel,New York,New York,,358,12-22-2019,Valued Customer,MidWest,USA
+359,12-22-2019,A. Radical,unknown,unknown,,359,12-06-2020,Penelope,Oklahoma,USA,,359,12-22-2019,A. Radical,unknown,unknown
+360,12-22-2019,Otangelo,Brazil,Brazil,,360,12-06-2020,Hunter,North Carolina,USA,,360,12-22-2019,Otangelo,Brazil,Brazil
+361,12-22-2019,Brett,Washinton State,USA,,361,12-06-2020,Moldred,New York State,USA,,361,12-22-2019,Brett,Washinton State,USA
+362,12-22-2019,Jon,New York,USA,,362,12-06-2020,William,Massachusetts,USA,,362,12-22-2019,Jon,New York,USA
+,,,,,,363,12-06-2020,Jacob,United Kingdom,United Kingdom,,363,1-5-2020,Adam,Minnesota,USA
+,,,,,,364,12-06-2020,Zaman,India,India,,364,1-5-2020,Elaine,Illinois,USA
+,,,,,,365,12-13-2020,Enoch,Pennsylvania,USA,,365,1-5-2020,Nick,Oregon,USA
+,,,,,,366,12-13-2020,Konnor,Texas,USA,,366,1-5-2020,John,Tennessee,USA
+,,,,,,367,12-13-2020,Jim,Faroe Islands,Caroe Islands,,367,1-5-2020,Alonzo,Virginia,USA
+,,,,,,368,12-13-2020,Avishai,Maryland,USA,,368,1-5-2020,Theo,Illinois,USA
+,,,,,,369,12-13-2020,Phillip,Australia,Australia,,369,1-5-2020,Joseph,New York State,USA
+,,,,,,370,12-13-2020,Wade,South Carolina,USA,,370,1-12-2020,Joe,New York State,USA
+,,,,,,371,12-13-2020,Paul,Michigan,USA,,371,1-12-2020,Matt,Michigan,USA
+,,,,,,372,12-13-2020,Veria,United Kingdom,United Kingdom,,372,1-12-2020,Ralph,Florida,USA
+,,,,,,373,12-13-2020,Sammy,United Kingdom,United Kingdom,,373,1-12-2020,Ryan,Florida,USA
+,,,,,,374,12-13-2020,Mark,California,USA,,374,1-12-2020,Ken,Pennsylvania,USA
+,,,,,,,,,,,,375,1-19-2020,Christain,Denmark,Denmark
+,,,,,,,,,,,,376,1-19-2020,Kayla,Connecticut,USA
+,,,,,,,,,,,,377,1-19-2020,Alan,California,USA
+,,,,,,,,,,,,378,1-19-2020,Cory,New York State,USA
+,,,,,,,,,,,,379,1-19-2020,David,Kentucky,USA
+,,,,,,,,,,,,380,1-19-2020,Michael,Arizona,USA
+,,,,,,,,,,,,381,1-19-2020,Mike,Toronto,Canada
+,,,,,,,,,,,,382,2-2-2020,Hermer,New York State,USA
+,,,,,,,,,,,,383,2-2-2020,Yoel,New York State,USA
+,,,,,,,,,,,,384,2-2-2020,Brant,California,USA
+,,,,,,,,,,,,385,2-2-2020,Wiliam,Nebraska,USA
+,,,,,,,,,,,,386,2-9-2020,Jonathan,Kentucky,USA
+,,,,,,,,,,,,387,2-9-2020,Walter,Michigan,USA
+,,,,,,,,,,,,388,2-9-2020,Jonathyn,Arizona,USA
+,,,,,,,,,,,,389,2-9-2020,Jonathan,Alabama,USA
+,,,,,,,,,,,,390,2-9-2020,Kevin,Tennessee,USA
+,,,,,,,,,,,,391,2-9-2020,Steve,Canada,Canada
+,,,,,,,,,,,,392,2-9-2020,Keith,Oklahoma,USA
+,,,,,,,,,,,,393,2-9-2020,John,Texas,USA
+,,,,,,,,,,,,394,2-16-2020,Daniel,Minnesota,USA
+,,,,,,,,,,,,395,2-16-2020,Alex,Colorado,USA
+,,,,,,,,,,,,396,2-16-2020,Mark,Maine,USA
+,,,,,,,,,,,,397,2-16-2020,Dalton,New Jersey,USA
+,,,,,,,,,,,,398,2-16-2020,Joshua,New York State,USA
+,,,,,,,,,,,,399,2-16-2020,Joseph,New York State,USA
+,,,,,,,,,,,,400,2-16-2020,Shattered,Oregon,USA
+,,,,,,,,,,,,401,2-16-2020,Samuel,Germany,Germany
+,,,,,,,,,,,,402,2-16-2020,Mark,Florida,USA
+,,,,,,,,,,,,403,2-16-2020,Julian,Washinton State,USA
+,,,,,,,,,,,,404,2-23-2020,Mary,Minnesota,USA
+,,,,,,,,,,,,405,2-23-2020,David,New Mexico,United States
+,,,,,,,,,,,,406,2-23-2020,Rami,Paris,France
+,,,,,,,,,,,,407,2-23-2020,Alex,Maryland,USA
+,,,,,,,,,,,,408,2-23-2020,Tom,California,USA
+,,,,,,,,,,,,409,2-23-2020,Mike,Vermont,USA
+,,,,,,,,,,,,410,2-23-2020,David,Louisiana,USA
+,,,,,,,,,,,,411,2-23-2020,Alex,Australia,Australia
+,,,,,,,,,,,,412,2-23-2020,David,Arizona,USA
+,,,,,,,,,,,,413,3-1-2020,Arthur,California,USA
+,,,,,,,,,,,,414,3-1-2020,Thomas,Georgia,USA
+,,,,,,,,,,,,415,3-1-2020,Mark,Maine,USA
+,,,,,,,,,,,,416,3-1-2020,Arturo,Texas,USA
+,,,,,,,,,,,,417,3-1-2020,Akeem,Pennsylvania,USA
+,,,,,,,,,,,,418,3-1-2020,Hallie,California,USA
+,,,,,,,,,,,,419,3-1-2020,Danny,United Kingdom,United Kingdom
+,,,,,,,,,,,,420,3-1-2020,Jason,South Carolina,USA
+,,,,,,,,,,,,421,3-8-2020,Sam,United Kingdom,United Kingdom
+,,,,,,,,,,,,422,3-8-2020,Minh,California,USA
+,,,,,,,,,,,,423,3-8-2020,Christopher,Tennessee,USA
+,,,,,,,,,,,,424,3-8-2020,James,Ottawa,Canada
+,,,,,,,,,,,,425,3-8-2020,David,New Jersey,USA
+,,,,,,,,,,,,426,3-8-2020,Jeremy,Louisiana,USA
+,,,,,,,,,,,,427,3-15-2020,Tom,Missouri,USA
+,,,,,,,,,,,,428,3-15-2020,CJ,North Carolina,USA
+,,,,,,,,,,,,429,3-15-2020,Hassan,California,USA
+,,,,,,,,,,,,430,3-15-2020,Luke,Arizona,USA
+,,,,,,,,,,,,431,3-24-2020,Dean,North Carolina,USA
+,,,,,,,,,,,,432,3-24-2020,Brent,California,USA
+,,,,,,,,,,,,433,3-24-2020,Traci,Arkansas,USA
+,,,,,,,,,,,,434,3-24-2020,Damon,Michigan,USA
+,,,,,,,,,,,,435,3-24-2020,Anna Marie,Indiana,USA
+,,,,,,,,,,,,436,3-24-2020,Brian,South Carolina,USA
+,,,,,,,,,,,,437,3-29-2020,Dave,Vienna,Austria
+,,,,,,,,,,,,438,3-29-2020,Anthony,Florida,USA
+,,,,,,,,,,,,439,3-29-2020,Alex,California,USA
+,,,,,,,,,,,,440,3-29-2020,Sean,Minnesota,USA
+,,,,,,,,,,,,441,3-29-2020,Omar,California,USA
+,,,,,,,,,,,,442,3-29-2020,Aaron,Arizona,USA
+,,,,,,,,,,,,443,3-29-2020,Lana,unknown,unknown
+,,,,,,,,,,,,444,4-5-2020,Gavin,Nebraska,USA
+,,,,,,,,,,,,445,4-5-2020,Brian,District of Columbia,USA
+,,,,,,,,,,,,446,4-5-2020,Kamal,Alabama,USA
+,,,,,,,,,,,,447,4-5-2020,Carlos,Texas,USA
+,,,,,,,,,,,,448,4-5-2020,Cade,Florida,USA
+,,,,,,,,,,,,449,4-5-2020,Laura,Michigan,USA
+,,,,,,,,,,,,450,4-5-2020,Justin,Texas,USA
+,,,,,,,,,,,,451,4-12-2020,Guardy,Ottawa,Canada
+,,,,,,,,,,,,452,4-12-2020,Dewitt,Washinton State,USA
+,,,,,,,,,,,,453,4-12-2020,Amene,Texas,USA
+,,,,,,,,,,,,454,4-12-2020,Murray,Indiana,USA
+,,,,,,,,,,,,455,4-12-2020,Marquel,Georgia,USA
+,,,,,,,,,,,,456,4-12-2020,Amin,New Jersey,USA
+,,,,,,,,,,,,457,4-12-2020,Greg,Florida,USA
+,,,,,,,,,,,,458,4-19-2020,Tony,South Africa,South Africa
+,,,,,,,,,,,,459,4-19-2020,Aligaz,Texas,USA
+,,,,,,,,,,,,460,4-19-2020,Tony,Illinois,USA
+,,,,,,,,,,,,461,4-19-2020,Juan,Colorado,USA
+,,,,,,,,,,,,462,4-19-2020,Wes,Maine,USA
+,,,,,,,,,,,,463,4-19-2020,Kevin,Mississippi,USA
+,,,,,,,,,,,,464,4-26-2020,Bug,Texas,USA
+,,,,,,,,,,,,465,4-26-2020,Philip,Florida,USA
+,,,,,,,,,,,,466,4-26-2020,Javier,Florida,USA
+,,,,,,,,,,,,467,4-26-2020,Ernesto,Georgia,USA
+,,,,,,,,,,,,468,4-26-2020,Amene,Texas,USA
+,,,,,,,,,,,,469,4-26-2020,Hunter,Texas,USA
+,,,,,,,,,,,,470,4-26-2020,Wilbur,New York State,USA
+,,,,,,,,,,,,471,5-3-2020,Javier,Florida,USA
+,,,,,,,,,,,,472,5-3-2020,Marcus,Ohio,USA
+,,,,,,,,,,,,473,5-3-2020,David,Minnesota,USA
+,,,,,,,,,,,,474,5-3-2020,Amanada,Texas,USA
+,,,,,,,,,,,,475,5-3-2020,Will,Florida,USA
+,,,,,,,,,,,,476,5-3-2020,Richard,California,USA
+,,,,,,,,,,,,477,5-10-2020,Charles,California,USA
+,,,,,,,,,,,,478,5-10-2020,David,New Jersey,USA
+,,,,,,,,,,,,479,5-10-2020,Andre,Pennsylvania,USA
+,,,,,,,,,,,,480,5-10-2020,Brian,Michigan,USA
+,,,,,,,,,,,,481,5-10-2020,Michael,Arizona,USA
+,,,,,,,,,,,,482,5-10-2020,Glenn,Pennsylvania,USA
+,,,,,,,,,,,,483,5-10-2020,Vladimir,California,USA
+,,,,,,,,,,,,484,5-10-2020,Matt,Indiana,USA
+,,,,,,,,,,,,485,5-10-2020,Kanyon,Arizona,USA
+,,,,,,,,,,,,486,5-10-2020,Daniel,California,USA
+,,,,,,,,,,,,487,5-17-2020,Trudy,Texas,USA
+,,,,,,,,,,,,488,5-17-2020,Debbie,New England,USA
+,,,,,,,,,,,,489,5-17-2020,Adam,California,USA
+,,,,,,,,,,,,490,5-17-2020,Jack,North Carolina,USA
+,,,,,,,,,,,,491,5-17-2020,Jack,London,United Kingdom
+,,,,,,,,,,,,492,5-17-2020,Dean,North Carolina,USA
+,,,,,,,,,,,,493,5-24-2020,Javier,Florida,USA
+,,,,,,,,,,,,494,5-24-2020,Dormand,New Jersey,USA
+,,,,,,,,,,,,495,5-24-2020,Nathan,Colorado,USA
+,,,,,,,,,,,,496,5-24-2020,David,Colorado,USA
+,,,,,,,,,,,,497,5-24-2020,Zachary,Alabama,USA
+,,,,,,,,,,,,498,5-24-2020,Raul,Texas,USA
+,,,,,,,,,,,,499,5-31-2020,Andrew,California,USA
+,,,,,,,,,,,,500,5-31-2020,Julian,Ontario,Canada
+,,,,,,,,,,,,501,5-31-2020,Keyon,Utah,USA
+,,,,,,,,,,,,502,5-31-2020,Dave,Utah,USA
+,,,,,,,,,,,,503,5-31-2020,David,Hawaii,USA
+,,,,,,,,,,,,504,5-31-2020,Miner,Arizona,USA
+,,,,,,,,,,,,505,5-31-2020,Oscar,Mexico,USA
+,,,,,,,,,,,,506,5-31-2020,Ben,California,USA
+,,,,,,,,,,,,507,5-31-2020,Cory,South Carolina,USA
+,,,,,,,,,,,,508,6-7-2020,David,Georgia,USA
+,,,,,,,,,,,,509,6-7-2020,David,New York State,USA
+,,,,,,,,,,,,510,6-7-2020,Paul,Georgia,USA
+,,,,,,,,,,,,511,6-7-2020,Todd,Colorado,USA
+,,,,,,,,,,,,512,6-7-2020,Tom,Ohio,USA
+,,,,,,,,,,,,513,6-7-2020,Miner,Arizona,USA
+,,,,,,,,,,,,514,6-7-2020,Mallory,Oregon,USA
+,,,,,,,,,,,,515,6-7-2020,RJ,Colorado,USA
+,,,,,,,,,,,,516,6-7-2020,Jesse,California,USA
+,,,,,,,,,,,,517,6-7-2020,Steve,Ohio,USA
+,,,,,,,,,,,,518,6-14-2020,Dave,Austria,Austria
+,,,,,,,,,,,,519,6-14-2020,Sawyer,Australia,Australia
+,,,,,,,,,,,,520,6-14-2020,Kevin,Arizona,USA
+,,,,,,,,,,,,521,6-14-2020,Douglas,Georgia,USA
+,,,,,,,,,,,,522,6-14-2020,Malcolm,California,USA
+,,,,,,,,,,,,523,6-14-2020,Nathan,Idaho,USA
+,,,,,,,,,,,,524,6-14-2020,Kevin,Oregon,USA
+,,,,,,,,,,,,525,6-14-2020,Justin,Minnesota,USA
+,,,,,,,,,,,,526,6-14-2020,Chris,Idaho,USA
+,,,,,,,,,,,,527,6-14-2020,Andy,New Mexico,USA
+,,,,,,,,,,,,528,6-14-2020,Carlos,Peru,Peru
+,,,,,,,,,,,,529,6-14-2020,Sebastian,Belgium,USA
+,,,,,,,,,,,,530,6-14-2020,Greg,Ohio,USA
+,,,,,,,,,,,,531,6-14-2020,Kim,California,USA
+,,,,,,,,,,,,532,6-21-2020,Earl,New York State,USA
+,,,,,,,,,,,,533,6-21-2020,Will,Washinton State,USA
+,,,,,,,,,,,,534,6-21-2020,Victor,New Mexico,USA
+,,,,,,,,,,,,535,6-21-2020,Ivan,Russia,Russia
+,,,,,,,,,,,,536,6-21-2020,Joseph,Nova Scotia,Canada
+,,,,,,,,,,,,537,6-21-2020,Sy,Maryland,USA
+,,,,,,,,,,,,538,6-28-2020,Michael,Pennsylvania,USA
+,,,,,,,,,,,,539,6-28-2020,David,Mexico City,Mexico
+,,,,,,,,,,,,540,6-28-2020,Steve,Ohio,USA
+,,,,,,,,,,,,541,6-28-2020,Joshua,Illinois,USA
+,,,,,,,,,,,,542,6-28-2020,Chris,Tennessee,USA
+,,,,,,,,,,,,543,6-28-2020,Kevin,Oregon,USA
+,,,,,,,,,,,,544,6-28-2020,Paulo,New York State,USA
+,,,,,,,,,,,,545,6-28-2020,Cory,New York State,USA
+,,,,,,,,,,,,546,6-28-2020,Elijah,New Mexico,USA
+,,,,,,,,,,,,547,6-28-2020,Tory,Illinois,USA
+,,,,,,,,,,,,548,7-5-2020,Emyn,Ohio,USA
+,,,,,,,,,,,,549,7-5-2020,Jeury,New York State,USA
+,,,,,,,,,,,,550,7-5-2020,Oscar,Indiana,USA
+,,,,,,,,,,,,551,7-5-2020,Gerard,Connecticut,USA
+,,,,,,,,,,,,552,7-5-2020,Daniel,California,USA
+,,,,,,,,,,,,553,7-5-2020,Alex,Virginia,USA
+,,,,,,,,,,,,554,7-5-2020,Angel,North Carolina,USA
+,,,,,,,,,,,,555,7-5-2020,Justin,Minnesota,USA
+,,,,,,,,,,,,556,7-5-2020,Mark,Rhode Island,USA
+,,,,,,,,,,,,557,7-5-2020,Luke,Georgia,USA
+,,,,,,,,,,,,558,7-5-2020,Michael,California,USA
+,,,,,,,,,,,,559,7-12-2020,Jonathan,Michigan,USA
+,,,,,,,,,,,,560,7-12-2020,Stephen,Illinois,USA
+,,,,,,,,,,,,561,7-12-2020,Matthew,North Carolina,USA
+,,,,,,,,,,,,562,7-12-2020,RJ,Colorado,USA
+,,,,,,,,,,,,563,7-12-2020,Jessica,Vermont,USA
+,,,,,,,,,,,,564,7-12-2020,Mary,Minnesota,USA
+,,,,,,,,,,,,565,7-19-2020,Josh,Tennessee,USA
+,,,,,,,,,,,,566,7-19-2020,Russell,Georgia,USA
+,,,,,,,,,,,,567,7-19-2020,Kendall,Washinton State,USA
+,,,,,,,,,,,,568,7-19-2020,Mo,Canada,Canada
+,,,,,,,,,,,,569,7-19-2020,Lance,Ohio,USA
+,,,,,,,,,,,,570,7-26-2020,Keith,Nebraska,USA
+,,,,,,,,,,,,571,7-26-2020,Steve,Ohio,USA
+,,,,,,,,,,,,572,7-26-2020,Nicolas,New York State,USA
+,,,,,,,,,,,,573,7-26-2020,Craig,Texas,USA
+,,,,,,,,,,,,574,7-26-2020,Julian,Ontario,Canada
+,,,,,,,,,,,,575,7-26-2020,Eryn,Texas,USA
+,,,,,,,,,,,,576,7-26-2020,Jelmar,Holland,Netherlands
+,,,,,,,,,,,,577,7-26-2020,Lloyd,Washinton State,USA
+,,,,,,,,,,,,578,7-26-2020,James,Maine,USA
+,,,,,,,,,,,,579,08-02-2020,Jenna,California,USA
+,,,,,,,,,,,,580,08-02-2020,Ricky,Georgia,USA
+,,,,,,,,,,,,581,08-02-2020,James,Maine,USA
+,,,,,,,,,,,,582,08-02-2020,Mike,California,USA
+,,,,,,,,,,,,583,08-02-2020,Chandu,Ontario,Canada
+,,,,,,,,,,,,584,08-02-2020,Jordan,California,USA
+,,,,,,,,,,,,585,08-02-2020,Greg,Ohio,USA
+,,,,,,,,,,,,586,08-02-2020,Journey,North Carolina,USA
+,,,,,,,,,,,,587,08-02-2020,Alex,New Jersey,USA
+,,,,,,,,,,,,588,08-09-2020,Dennis,New York State,USA
+,,,,,,,,,,,,589,08-09-2020,Steve,Virginia,USA
+,,,,,,,,,,,,590,08-09-2020,Alex,Florida,USA
+,,,,,,,,,,,,591,08-09-2020,William,Australia,Australia
+,,,,,,,,,,,,592,08-09-2020,Guillermo,California,USA
+,,,,,,,,,,,,593,08-09-2020,Mike,Washinton State,USA
+,,,,,,,,,,,,594,08-09-2020,Austin,Wisconsin,USA
+,,,,,,,,,,,,595,08-16-2020,Ricky,California,USA
+,,,,,,,,,,,,596,08-16-2020,Aaron,Wisconsin,USA
+,,,,,,,,,,,,597,08-16-2020,Carl,Ontario,Canada
+,,,,,,,,,,,,598,08-16-2020,Mark,Florida,USA
+,,,,,,,,,,,,599,08-16-2020,Gene,Pennsylvania,USA
+,,,,,,,,,,,,600,08-16-2020,Joe,Lebanon,Lebanon
+,,,,,,,,,,,,601,08-16-2020,Adrian,Texas,USA
+,,,,,,,,,,,,602,08-16-2020,David,Mexico,Mexico
+,,,,,,,,,,,,603,08-16-2020,James,Nevada,USA
+,,,,,,,,,,,,604,08-23-2020,Jacob,Illinois,USA
+,,,,,,,,,,,,605,08-23-2020,Arthur,Europe,Europe
+,,,,,,,,,,,,606,08-23-2020,Josiah,California,USA
+,,,,,,,,,,,,607,08-23-2020,Dan,Romania,Romania
+,,,,,,,,,,,,608,08-23-2020,Sirha,Connecticut,USA
+,,,,,,,,,,,,609,08-23-2020,Marie,Virginia,USA
+,,,,,,,,,,,,610,08-30-2020,Jack,Canada,Canada
+,,,,,,,,,,,,611,08-30-2020,Ryan,New York State,USA
+,,,,,,,,,,,,612,08-30-2020,Linguistie,Ukraine,Ukraine
+,,,,,,,,,,,,613,08-30-2020,Sain,Texas,USA
+,,,,,,,,,,,,614,08-30-2020,Jonathan,Arizona,USA
+,,,,,,,,,,,,615,09-06-2020,John,Florida,USA
+,,,,,,,,,,,,616,09-06-2020,Ralph,Florida,USA
+,,,,,,,,,,,,617,09-06-2020,Syngyn,Pennsylvania,USA
+,,,,,,,,,,,,618,09-06-2020,Jack,Canada,Canada
+,,,,,,,,,,,,619,09-06-2020,Keyon,California,USA
+,,,,,,,,,,,,620,09-06-2020,Kendall,Washinton State,USA
+,,,,,,,,,,,,621,09-13-2020,Isaac,Ohio,USA
+,,,,,,,,,,,,622,09-13-2020,Alexander,Norway,Norway
+,,,,,,,,,,,,623,09-13-2020,Patrick,Washinton State,USA
+,,,,,,,,,,,,624,09-13-2020,Joseph,Georgia,USA
+,,,,,,,,,,,,625,09-13-2020,Kendall,Oregon,USA
+,,,,,,,,,,,,626,09-13-2020,Kay,New Hampshire,USA
+,,,,,,,,,,,,627,09-13-2020,Danny,London,United Kingdom
+,,,,,,,,,,,,628,09-13-2020,Mark,Illinois,USA
+,,,,,,,,,,,,629,09-13-2020,George,Texas,USA
+,,,,,,,,,,,,630,09-20-2020,Jonathan,United Kingdom,United Kingdom
+,,,,,,,,,,,,631,09-20-2020,Shona,New York State,USA
+,,,,,,,,,,,,632,09-20-2020,Dean,California,USA
+,,,,,,,,,,,,633,09-20-2020,Brian,California,USA
+,,,,,,,,,,,,634,09-20-2020,Rick,Michigan,USA
+,,,,,,,,,,,,635,09-20-2020,Ron,Florida,USA
+,,,,,,,,,,,,636,09-20-2020,Mark,New Mexico,USA
+,,,,,,,,,,,,637,09-20-2020,Nathan,Louisiana,USA
+,,,,,,,,,,,,638,09-20-2020,Michael,Arizona,USA
+,,,,,,,,,,,,639,09-20-2020,Vernaz,United Kingdom,United Kingdom
+,,,,,,,,,,,,640,09-27-2020,Jake,California,USA
+,,,,,,,,,,,,641,09-27-2020,Jose,Georgia,USA
+,,,,,,,,,,,,642,09-27-2020,Lauren,New York State,USA
+,,,,,,,,,,,,643,09-27-2020,Lisa,Florida,USA
+,,,,,,,,,,,,644,09-27-2020,Jacob,California,USA
+,,,,,,,,,,,,645,09-27-2020,Joe,Illinois,USA
+,,,,,,,,,,,,646,09-27-2020,Dan,New York State,USA
+,,,,,,,,,,,,647,09-27-2020,Enoch,Pennsylvania,USA
+,,,,,,,,,,,,648,09-27-2020,Jeremy,Nevada,USA
+,,,,,,,,,,,,649,09-27-2020,Anthony,Virginia,USA
+,,,,,,,,,,,,650,10-4-2020,Hunter,Ohio,USA
+,,,,,,,,,,,,651,10-4-2020,Nathan,Mexico,Mexico
+,,,,,,,,,,,,652,10-4-2020,Ricky,Columbia,Columbia
+,,,,,,,,,,,,653,10-4-2020,Alvin,North Carolina,USA
+,,,,,,,,,,,,654,10-4-2020,Robert,California,USA
+,,,,,,,,,,,,655,10-4-2020,Mars,unknown,unknown
+,,,,,,,,,,,,656,10-4-2020,Danny,United Kingdom,United Kingdom
+,,,,,,,,,,,,657,10-4-2020,Wevvyj,Massachusetts,USA
+,,,,,,,,,,,,658,10-4-2020,Brent,California,USA
+,,,,,,,,,,,,659,10-4-2020,John,New Jersey,USA
+,,,,,,,,,,,,660,10-4-2020,G,North Carolina,USA
+,,,,,,,,,,,,661,10-4-2020,Sam,Nevada,USA
+,,,,,,,,,,,,662,10-11-2020,Jelmer,Netherlands,Netherlands
+,,,,,,,,,,,,663,10-11-2020,Marius,Alabama,USA
+,,,,,,,,,,,,664,10-11-2020,Omniskeptic,Canada,Canada
+,,,,,,,,,,,,665,10-11-2020,Jacob,United Kingdom,United Kingdom
+,,,,,,,,,,,,666,10-11-2020,Shannon,Texas,USA
+,,,,,,,,,,,,667,10-11-2020,Nadir,Florida,USA
+,,,,,,,,,,,,668,10-11-2020,Jeff,Florida,USA
+,,,,,,,,,,,,669,10-18-2020,Kel,Utah,USA
+,,,,,,,,,,,,670,10-18-2020,Al,Poland,Poland
+,,,,,,,,,,,,671,10-18-2020,Alvin,North Carolina,USA
+,,,,,,,,,,,,672,10-18-2020,RJ,Colorado,USA
+,,,,,,,,,,,,673,10-18-2020,Kim,Oregon,USA
+,,,,,,,,,,,,674,10-18-2020,David,California,USA
+,,,,,,,,,,,,675,10-25-2020,Heath,Texas,USA
+,,,,,,,,,,,,676,10-25-2020,Adam,Romania,Romania
+,,,,,,,,,,,,677,10-25-2020,Meerkat,Utah,USA
+,,,,,,,,,,,,678,10-25-2020,Ray,Colorado,USA
+,,,,,,,,,,,,679,10-25-2020,Catholic Traditionalist,Louisiana,USA
+,,,,,,,,,,,,680,10-25-2020,Joe,Missouri,USA
+,,,,,,,,,,,,681,10-25-2020,David,California,United States
+,,,,,,,,,,,,682,11-1-2020,Eddie,Canada,Canada
+,,,,,,,,,,,,683,11-1-2020,Ulrich,Mexico,Mexico
+,,,,,,,,,,,,684,11-1-2020,Lester,North Carolina,USA
+,,,,,,,,,,,,685,11-1-2020,Anne,Turkey,Turkey
+,,,,,,,,,,,,686,11-1-2020,Jesus,California,USA
+,,,,,,,,,,,,687,11-1-2020,Anthony,Florida,USA
+,,,,,,,,,,,,688,11-1-2020,Dmitriy,California,USA
+,,,,,,,,,,,,689,11-1-2020,Cindy,Belgium,Germany
+,,,,,,,,,,,,690,11-1-2020,John,Georgia,USA
+,,,,,,,,,,,,691,11-1-2020,Preston,Utah,USA
+,,,,,,,,,,,,692,11-8-2020,Bonnie,Wisconsin,USA
+,,,,,,,,,,,,693,11-8-2020,Alvin,North Carolina,USA
+,,,,,,,,,,,,694,11-8-2020,David,Pennsylvania,USA
+,,,,,,,,,,,,695,11-8-2020,Lord Methane,California,USA
+,,,,,,,,,,,,696,11-8-2020,Lee,Georgia,USA
+,,,,,,,,,,,,697,11-8-2020,Lester,North Carolina,USA
+,,,,,,,,,,,,698,11-8-2020,Mike,Ohio,USA
+,,,,,,,,,,,,699,11-8-2020,Andrew,North Carolina,USA
+,,,,,,,,,,,,700,11-8-2020,Rick,Georgia,USA
+,,,,,,,,,,,,701,11-22-2020,Michael,Colorado,USA
+,,,,,,,,,,,,702,11-22-2020,Paul,England,England
+,,,,,,,,,,,,703,11-22-2020,Enoch,Pennsylvania,USA
+,,,,,,,,,,,,704,11-22-2020,Danny,Louisiana,USA
+,,,,,,,,,,,,705,11-22-2020,Beth,Minnesota,USA
+,,,,,,,,,,,,706,11-22-2020,Greg,Florida,USA
+,,,,,,,,,,,,707,11-22-2020,Mac,California,USA
+,,,,,,,,,,,,708,11-22-2020,Julian,Florida,USA
+,,,,,,,,,,,,709,11-29-2020,Mark,unknown,unknown
+,,,,,,,,,,,,710,11-29-2020,Amber,South Carolina,USA
+,,,,,,,,,,,,711,11-29-2020,Chase,Texas,USA
+,,,,,,,,,,,,712,11-29-2020,Sid,Nevada,USA
+,,,,,,,,,,,,713,11-29-2020,Sam,Pennsylvania,USA
+,,,,,,,,,,,,714,11-29-2020,Steven,Georgia,USA
+,,,,,,,,,,,,715,11-29-2020,Andrea,California,USA
+,,,,,,,,,,,,716,11-29-2020,Skye,Colorado,USA
+,,,,,,,,,,,,717,11-29-2020,Joe,Virginia,USA
+,,,,,,,,,,,,718,12-06-2020,Stephen,Oregon,USA
+,,,,,,,,,,,,719,12-06-2020,Ahmad,Syria,Syria
+,,,,,,,,,,,,720,12-06-2020,Daniel,New York,New York
+,,,,,,,,,,,,721,12-06-2020,Penelope,Oklahoma,USA
+,,,,,,,,,,,,722,12-06-2020,Hunter,North Carolina,USA
+,,,,,,,,,,,,723,12-06-2020,Moldred,New York State,USA
+,,,,,,,,,,,,724,12-06-2020,William,Massachusetts,USA
+,,,,,,,,,,,,725,12-06-2020,Jacob,United Kingdom,United Kingdom
+,,,,,,,,,,,,726,12-06-2020,Zaman,India,India
+,,,,,,,,,,,,727,12-13-2020,Enoch,Pennsylvania,USA
+,,,,,,,,,,,,728,12-13-2020,Konnor,Texas,USA
+,,,,,,,,,,,,729,12-13-2020,Jim,Faroe Islands,Caroe Islands
+,,,,,,,,,,,,730,12-13-2020,Avishai,Maryland,USA
+,,,,,,,,,,,,731,12-13-2020,Phillip,Australia,Australia
+,,,,,,,,,,,,732,12-13-2020,Wade,South Carolina,USA
+,,,,,,,,,,,,733,12-13-2020,Paul,Michigan,USA
+,,,,,,,,,,,,734,12-13-2020,Veria,United Kingdom,United Kingdom
+,,,,,,,,,,,,735,12-13-2020,Sammy,United Kingdom,United Kingdom
+,,,,,,,,,,,,736,12-13-2020,Mark,California,USA
