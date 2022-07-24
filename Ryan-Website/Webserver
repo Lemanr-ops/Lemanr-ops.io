@@ -3,6 +3,6 @@
 (require "spinneret")
 (require "djula")
 
-(defvar *acceptor* (make-instance 'hunchentoot:easy-acceptor :port 4444 :document-root #p"~/Desktop/CodingProjects/common-lisp/Ryan-Website/www/"))
-(setf (hunchentoot:acceptor-document-root *acceptor*) #p"~/Desktop/CodingProjects/common-lisp/Ryan-Website/www/index.html")
+(defvar *acceptor* (make-instance 'hunchentoot:easy-acceptor :port 4444 :document-root #p"~/Desktop/CodingProjects/common-lisp/Ryan-Website/"))
+(setf (hunchentoot:acceptor-document-root *acceptor*) #p"~/www/index.html") ;no idea if this is set up correctly lol
 (hunchentoot:start *acceptor*)
