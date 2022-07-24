@@ -1,16 +1,12 @@
-#include <iostream>
-#include <fstream>
-#include <cmath>
-#include <cstring>
-using namespace std;
-
 //Questions: 2 7 12 17 22 27 32 37 42 47
 
-int main(){
+float Agreeablenesstest(){
 
 int A_score = 14;
 int* address_A_score = &A_score;
-int A_score_DataSet[9];
+int A_score_DataSet; ; // from https://www.programiz.com/cpp-programming/memory-management
+    // should creat a new array (above) then allocate dynamic memory below as shown in link
+A_score_DataSet = new int[9]
 cout << "This is the Agreeableness section of the Big Five Personality test \nAnswer these questions using these numbers: \n1 = disagree\n2 = slightly disagree\n3 = neutral\n4 = slightly agree\n5 = agree\n\n";
 
 cout << "Feel little concern for others ";
