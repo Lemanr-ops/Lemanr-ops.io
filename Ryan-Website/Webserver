@@ -3,6 +3,7 @@
 (require "spinneret")
 (require "djula")
 
-(defvar *acceptor* (make-instance 'hunchentoot:easy-acceptor :port 4444 :document-root #p"~/Desktop/CodingProjects/common-lisp/Ryan-Website/www/index.html"))
+(defvar *acceptor* (make-instance 'hunchentoot:easy-acceptor :port 4444 :document-root #p"~/Desktop/CodingProjects/common-lisp/Ryan-Website/www/")) ;see if needs to root on index.html, confused if document root is for website working directory or just homepage (aka first page that loads)
+; in reference to above note after S-expression, see if I con code working dir & homepage seperately or it that is even needed.
 ; not sure if this is needed, try without first, may have been just for learning sake in tutorial -> (setf (hunchentoot:acceptor-document-root *acceptor*) #p"~/www/index.html") ;no idea if this is set up correctly lol
 (hunchentoot:start *acceptor*)
