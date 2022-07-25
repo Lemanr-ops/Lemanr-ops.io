@@ -1,4 +1,5 @@
 //Questions: 2 7 12 17 22 27 32 37 42 47
+using namespace std;
 
 float Agreeablenesstest(){
 
