@@ -1,9 +1,11 @@
 //Questions: 2 7 12 17 22 27 32 37 42 47
+using namespace std;
 
 void Call_Agreeableness_Questions(){
-//int A_score = 14;
-//int* address_A_score = &A_score;
-//int A_score_DataSet[9];
+int A_score = new int;
+A_score += 14;
+int* address_A_score = &A_score;
+int A_score_DataSet= new int[9]
 cout << "This is the Agreeableness section of the Big Five Personality test \nAnswer these questions using these numbers: \n1 = disagree\n2 = slightly disagree\n3 = neutral\n4 = slightly agree\n5 = agree\n\n";
 
 cout << "Feel little concern for others ";
@@ -38,12 +40,14 @@ cout << "Your total score for Agreeableness is "<< *address_A_score;
 
 //Just some new concept I did successfully, probably won't make it in
 //final program
+// there is another standard library in C++ called fstream to read the data from the file and to write the data into the file.
 cout << "\n now I'll try to add results to Results.txt";
 ofstream myfile ("Results.txt");
 if (myfile.is_open())
 {
     myfile << "Your score is " << A_score;
     myfile.close();
+    delete [] A_score_DataSet;
 }
 return 0;
 }
